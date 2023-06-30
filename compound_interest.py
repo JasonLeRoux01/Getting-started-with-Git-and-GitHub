@@ -4,7 +4,7 @@
 # Author: Upkar Lidder (IBM)
 
 # Input:
-# p, principal amount
+# p, principal amount 
 # t, time period in years
 # r, annual rate of interest
 
